@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaulGlory
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Tech
 
 - 🌱 I’m currently learning JavaScript
